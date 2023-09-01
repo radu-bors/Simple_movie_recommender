@@ -1,1 +1,1 @@
-# spiced_movie_recommender
+# Simple movie recommender
